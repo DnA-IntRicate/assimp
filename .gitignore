@@ -11,7 +11,10 @@ build
 # Visual Studio
 *.sln
 *.ncb
+*.csproj
 *.vcproj
+*.vcxproj
+*.vcxproj.filters
 *.vcxproj.user
 *.VC.db
 *.VC.db-shm
