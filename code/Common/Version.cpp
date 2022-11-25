@@ -45,7 +45,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <assimp/scene.h>
 #include <assimp/version.h>
 
-#include "revision.h.in"
+#include "revision.h"
 
 // --------------------------------------------------------------------------------
 // Legal information string - don't remove this.
